@@ -13,8 +13,15 @@ View your app in AI Studio: https://ai.studio/apps/drive/1zAFDG_GBlrfGzZ8mGrl1Kw
 **Prerequisites:**  Node.js
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# phuong-gemini-app
+
+Ứng dụng AI sử dụng Google Gemini API để tạo phản hồi thông minh.
+## Cách chạy
+1. Cài thư viện:
+```bash
+pip install -r requirements.txt
+2. Chạy ứng dụng:
+python main.py
+Tác giả
+PhươngGDTC - THCS Hoà Thắng - Lâm Đồng, Việt Nam
+
